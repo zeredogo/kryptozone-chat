@@ -4,11 +4,11 @@ import './App.css';
 
 const App = () => {
   return (
-    <ChartEngine 
+    <ChatEngine 
        height="100vh" 
-       projectID=""
-       userName=""
-       userSecret=""
+       projectID="64345281-7c5f-4b4d-a9d1-69c699043dbd"
+       userName="KryptoZone"
+       userSecret="zeredogo"
     />
   )
 }
